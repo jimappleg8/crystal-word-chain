@@ -90,6 +90,6 @@ For example: heir &gt; apparent … a parent &gt; trap.
 
 The game ends when the crystal is filled, there is no more time to play, or when the group decides it’s over. The player with the most points at the end of the game is the winner.
 
-This game is an [Open Artifacts](https://www.openartifacts.com/) project. If you are interested in contributing to making this game better or would like to create a different game based on this one, {please visit the project page](https://github.com/jimappleg8/crystal-word-chain). The game is licensed under the Apache License 2.0.
+This game is an [Open Artifacts](https://www.openartifacts.com/) project. If you are interested in contributing to making this game better or would like to create a different game based on this one, [please visit the project page](https://github.com/jimappleg8/crystal-word-chain). The game is licensed under the Apache License 2.0.
 
 Please enjoy this free printable game, and let me know what you think in the comments!
