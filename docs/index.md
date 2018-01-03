@@ -14,14 +14,14 @@ Once it's laminated, you can use wet-erase markers to write the words and then c
 
 ## [](#printable-game-downloads)Printable Game Downloads
 
-* [The Crystal Word Chain Game Board](../chain-motif/full-board/crystal-word-chain-full-board-cm.pdf)
-* [The Crystal Word Chain Seed Word Selector](../seed-words/crystal-word-chain-seed-words.pdf)
+* [The Crystal Word Chain Game Board](https://github.com/jimappleg8/crystal-word-chain/tree/master/chain-motif/full-board/crystal-word-chain-full-board-cm.pdf)
+* [The Crystal Word Chain Seed Word Selector](https://github.com/jimappleg8/crystal-word-chain/tree/master/seed-words/crystal-word-chain-seed-words.pdf)
 
 ## [](#printing-the-board)Printing the Board
 
 The PDF of the board is big enough that you'll have to tile the print and then tape and/or glue it all together. It's a bit of a pain to do for just one game. That's why I'd recommend getting it laminated, so you can use it over and over.
 
-<img src="images/adobe-reader-tiling.png" width="300" height="268">
+<img src="images/adobe-reader-tiling.png" width="400">
 
 To tile in [Acrobat](https://get.adobe.com/reader/), go to the print dialog box (File &gt; Print) and select the Poster button in the middle of the dialog box. Set the overlap to 0.5 inches. That should make sure you don't lose any of the image in the white border that printers leave around the edge.
 
@@ -41,7 +41,7 @@ The object of the game is to fill in the blanks on the board with words accordin
 
 This game is about having fun and being as creative as possible. Use the rules to keep chaos from setting in, but remember that creativity counts for as much as following the rules exactly.
 
-<img src="images/seed-word-card-example.png" width="300" height="116">
+<img src="images/seed-word-card-example.png" width="400">
 
 This is one of the six seed word cards from the download above. Roll a die three times to find your seed word.
 
@@ -51,11 +51,16 @@ This is one of the six seed word cards from the download above. Roll a die three
   - The word combinations must work in the order indicated by the arrows on the board.
   - A word cannot be used twice if it is connected to the same word at a circle.
   - Purple spaces can only be filled in when the two white spaces on either end are filled in. The word entered into the purple space must work with both words in the adjacent white spaces in the order indicated by the arrows. For example:
-  <img src="images/blue-space-example.png" width="300" height="150">
-  <small>(tea time, time machine)</small>
+
+<img src="images/blue-space-example.png" width="300" height="150">
+
+<small>(tea time, time machine)</small>
+
   - Pink spaces can only be filled in when either all three of its corner circle links or all three of its side oval links are filled in. The word entered into the pink space must work with either all three corners or all three sides, but it can work in any direction. For example:
-  <img src="images/pink-space-example.png" width="300" height="225">
-  <small>(outhouse, blackout and time-out)</small>
+
+<img src="images/pink-space-example.png" width="300" height="225">
+
+<caption>(outhouse, blackout and time-out)</caption>
 
 ### [](#valid-word-combinations)Valid Word Combinations
 
